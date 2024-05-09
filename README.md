@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React Native
 - 💞️ I’m looking to collaborate on github and more platforms
-- 📫 How to reach me iamKaim
+- 📫 How to reach me iamKazimAli
 
 <!---
 iamkazim/iamkazim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
